@@ -7,7 +7,7 @@ import { VmComponent } from '@/components/vm/VmComponent';
 export function NearOrgHomePage(){
 return (
             <VmComponent
-              src="harmonic1.near/widget/buildspace"
+              src="mugdha.near/widget/12th.graders."
               props={{
               }}
             />
