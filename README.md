@@ -1,4 +1,4 @@
-# NEAR Discovery (BOS)
+# NEAR Discovery (BOS) Gateay
 
 ## Setup & Development
 
